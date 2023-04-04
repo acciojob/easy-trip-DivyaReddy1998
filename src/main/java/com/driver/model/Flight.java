@@ -1,5 +1,7 @@
 package com.driver.model;
 
+package com.driver.model;
+
 import java.util.Date;
 
 public class Flight {
